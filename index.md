@@ -1,6 +1,6 @@
 ---
 title: Microfactory
-layout: home
+layout: page
 ---
 
 Documentation on building a Fabricator.
