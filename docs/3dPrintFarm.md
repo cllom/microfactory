@@ -9,21 +9,26 @@ Create an automated 3D printing farm with modular printers that dispense finishe
 # Related Works
 ## 3D Printer Farm - Robot-based Automation
 Technikum Digital Factory at the Fachhochschule Technikum Wien.
-[Video](https://www.youtube.com/watch?app=desktop&v=EK57AHT1Xqk&ab_channel=AliAburaia)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EK57AHT1Xqk?si=HaMc4QVCozvwBd3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Voodoo Manufacturing triples 3D printing production with Universal Robots
-[Video](https://www.youtube.com/watch?v=qo_rtzEI_7Y&ab_channel=UniversalRobots)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qo_rtzEI_7Y?si=vljhj8MF0Ubtgw81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## PRUSA PRO AFS - Automated Farm System: Presenting the Future of Manufacturing on EXPO 2020 in Dubai
-[Video](https://www.youtube.com/watch?v=uLMRAC2zJJA&ab_channel=Prusa3DbyJosefPrusa)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLMRAC2zJJA?si=qkoUONVfIluHkT8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Formlabs Form Cell - SLA Print Farm
-[Video](https://www.youtube.com/watch?v=LvOdZ6FC-1E&ab_channel=Formlabs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvOdZ6FC-1E?si=w9Ja43ouGB71cQw9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Working Logs
-## Previous work
-
+## Previous work at Helmut-Schmidt-Universität - Universität der Bundeswehr Hamburg
+![owis](../images/3dPrintFarm/spp1476.jpg)
+*Small Machine Tools for Small Workpieces (SPP1476) with cartesian coordinate robot*
 
 ## Building a 3D Printer
 
