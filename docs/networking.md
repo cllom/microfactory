@@ -11,5 +11,7 @@ An Open Source Software to monitor three machines in Pop-up Factory:
 3. CNC Router: [OLSK-Small-CNC](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-CNC)
 4. 3D Printer: [OLSK-Small-3D-Printer](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-3D-Printer)
 
+![](https://user-images.githubusercontent.com/27281789/224694394-71e27d97-3190-4532-841b-41424c293412.png)
 
-[Documentation](https://github.com/satshas/machine-monitoring)
+
+[github](https://github.com/satshas/machine-monitoring)

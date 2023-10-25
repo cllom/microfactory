@@ -22,6 +22,6 @@ Flexures as a Z-axis system
   <iframe src="https://fab.cba.mit.edu/classes/865.21/people/rahul/Images/flex2fmg.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-https://fab.cba.mit.edu/classes/865.21/people/rahul/
+[https://fab.cba.mit.edu/classes/865.21/people/rahul/](https://fab.cba.mit.edu/classes/865.21/people/rahul/)
 
 Rahul Rajan
