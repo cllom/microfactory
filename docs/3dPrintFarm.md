@@ -27,7 +27,7 @@ Technikum Digital Factory at the Fachhochschule Technikum Wien.
 
 # Working Logs
 ## Previous work at Helmut-Schmidt-Universität - Universität der Bundeswehr Hamburg
-![owis](../images/3dPrintFarm/spp1476.jpg)
+![](./images/3dPrintFarm/spp1476.jpg)
 *Small Machine Tools for Small Workpieces (SPP1476) with cartesian coordinate robot*
 
 ## Building a 3D Printer
