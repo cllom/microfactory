@@ -1,6 +1,6 @@
 ---
 layout: page
-title: networking
+title: Networking
 permalink: /networking
 ---
 Knowing the status of the machine, whether it's idle, paused, running, or the job is done.

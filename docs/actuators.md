@@ -1,6 +1,6 @@
 ---
 layout: page
-title: actuators
+title: Actuators
 permalink: /actuators
 ---
 

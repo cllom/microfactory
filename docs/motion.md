@@ -1,6 +1,6 @@
 ---
 layout: page
-title: motion
+title: Motion
 permalink: /motion
 ---
 # Flexure
@@ -8,7 +8,7 @@ permalink: /motion
 
 With a positioning error ofless than 16 μm/100 mm and a repeatability of less than 2 μm the axes reached a feed rate up to vf = 10 mm/s. For the realisation of a high dynamic movement for gap width control a piezo unit installed on the linear axes was developed. {page 41}
 
-![owis](../images/motion/owis.jpg)
+![owis](./images/motion/owis.jpg)
 *Piezo unit for the realisation a gap width control movement
 Module for Micro Electrical Discharge Machining*
 
