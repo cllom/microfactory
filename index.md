@@ -37,7 +37,8 @@ The collaborative efforts of 18 leading institutes of Production Technology in G
 By addressing these research questions, we can gain a comprehensive understanding of the challenges and opportunities presented by the integration of current fabrication technologies. This will pave the way for more efficient, versatile, and sustainable manufacturing solutions in the future.
 
 # Spiral Development
-Goal: Create a modular machine that integrates various machines like 3D printers, CNC milling machines, lathes, and laser cutters to create almost anything.
+Goal: Create a machine that integrates various single-purpose modular devices like 3D printers, CNC milling machines, lathes and laser cutters to create almost anything.
+
 ## Phase 1: Automated Modular 3D Printing Farm with Product Dispensing
 Create an automated 3D printing farm with modular printers that dispense finished products.
 
