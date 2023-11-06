@@ -11,12 +11,12 @@ permalink: /3DPrinter
 
 https://github.com/Open-Lab-Starter-Kit/OLSK-Small-3D-Printer
 
+[OLSK-Small-3D-Printer](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-3D-Printer)
+
 
 # Voron
 
 ![](https://raw.githubusercontent.com/VoronDesign/Voron-Documentation/main/images/Voron0.jpg)
 *VORON0 v0.2*
 
-
-
-https://docs.vorondesign.com/
+[https://docs.vorondesign.com/](https://docs.vorondesign.com/)
