@@ -12,6 +12,8 @@ With a positioning error ofless than 16 μm/100 mm and a repeatability of less t
 *Piezo unit for the realisation a gap width control movement
 Module for Micro Electrical Discharge Machining*
 
+Source: Module for Micro Electrical Discharge
+Machining with Gaseous Dielectrics
 Ivan Perfilov, Jan Streckenbach, Tassilo-Maria Schimmelpfennig
 and Eckart Uhlmann
 
@@ -24,4 +26,4 @@ Flexures as a Z-axis system
 
 [https://fab.cba.mit.edu/classes/865.21/people/rahul/](https://fab.cba.mit.edu/classes/865.21/people/rahul/)
 
-Rahul Rajan
+Source: Rahul Rajan
