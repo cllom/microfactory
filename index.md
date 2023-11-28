@@ -42,6 +42,8 @@ Goal: Create a machine that integrates various single-purpose modular devices li
 ## Phase 1: Automated Modular 3D Printing Farm with Product Dispensing
 Create an automated 3D printing farm with modular printers that dispense finished products.
 
+[Link](https://marcellotania.com/microfactory/3DPrintFarm)
+
 # Acknowledgments
 This research was supported by [Laboratorium Fertigungstechnik (LaFT)](https://www.hsu-hh.de/laft/),
 [Helmut-Schmidt-Universität - Universität der Bundeswehr Hamburg](https://www.hsu-hh.de/) and [New Production Institute](https://newproductioninstitute.de/en/home). We thank for their invaluable insights and contributions.

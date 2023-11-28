@@ -30,6 +30,13 @@ Technikum Digital Factory at the Fachhochschule Technikum Wien.
 ![](./images/3dPrintFarm/spp1476.jpg)
 *Small Machine Tools for Small Workpieces (SPP1476) with cartesian coordinate robot*
 
+
+![](./images/3dPrintFarm/spp3DCad.jpg)
+*3D CAD of Small Machine Tools for Small Workpieces (SPP1476) with cartesian coordinate robot*
+
+![](./images/3dPrintFarm/sppTechDrawing.jpg)
+*Technical Drawing of Small Machine Tools for Small Workpieces (SPP1476) with cartesian coordinate robot*
+
 ## Building a 3D Printer
 
 ### Morphological Box

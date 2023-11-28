@@ -9,8 +9,6 @@ permalink: /3DPrinter
 ![](https://raw.githubusercontent.com/Open-Lab-Starter-Kit/OLSK-Small-3D-Printer/main/media/OLSK_3DPrinter_v2_1_low.png)
 *Open Source 3D Printer - Small version - Open Lab Starter Kit*
 
-https://github.com/Open-Lab-Starter-Kit/OLSK-Small-3D-Printer
-
 [OLSK-Small-3D-Printer](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-3D-Printer)
 
 
